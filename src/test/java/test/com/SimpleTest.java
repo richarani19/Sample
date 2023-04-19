@@ -5,6 +5,8 @@ public class SimpleTest {
 		System.out.println("I love my India");
 	}
 	public void m1()
-	{}
+	{
+		System.out.println("Hi");
+	}
 
 }
